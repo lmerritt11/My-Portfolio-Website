@@ -89,3 +89,38 @@ h3{
   height:100px;
   width: 100px;
 }
+
+.small-project img{
+  height:200px;
+  width: 250px;
+  float:center;
+  margin-top: 60px;
+  margin-bottom:150px;
+}
+
+.footer{
+  background-color: #ffc421;
+  width:100%;
+  padding-top:50px;
+}
+
+.footertext{
+  font-family: helvetica;
+  size: 10px;
+  color:purple;
+  margin-left: 20px;
+  display: inline-block;
+  margin-bottom: 10;
+}
+
+.social-buttons{
+  display: inline-block;
+  float: right;
+}
+
+.social-buttons a {
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  margin-right:20px;
+}
